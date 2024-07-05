@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Maxim/gitpj/lab4/mlruns/0/6313b60046ba410d937bac68758374d9/artifacts
+end_time: 1720130916721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6313b60046ba410d937bac68758374d9
+run_name: persistent-colt-747
+run_uuid: 6313b60046ba410d937bac68758374d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720130916510
+status: 3
+tags: []
+user_id: Maxim
